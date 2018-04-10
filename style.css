@@ -1,8 +1,13 @@
-P.intro {
-    -webkit-text-fill-color: red;
+A {
+    text-decoration: underline;
+    color: black;
 }
 
-tbody {
-    /*background: black;*/
-    /*-webkit-text-fill-color: white;*/
+A:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+A:visited {
+    color: black;
 }
